@@ -1,7 +1,6 @@
 # C Programming Practice Practices
 ## About
-This repository contains my C programming practice codes.
-
+This repository contains my C programming practice codes.<br>
 I am learning C programming and improving my problem solving skills.
 
 ## Topics(Chapters) Covered
